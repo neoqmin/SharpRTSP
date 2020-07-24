@@ -387,7 +387,7 @@ This is a walkthrough of an **old version** of the RTSP Client Example which hig
         }
   ```
 
-
+[.NET Framework versions and dependencies](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)
 
 
 
